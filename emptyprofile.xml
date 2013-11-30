@@ -1,0 +1,8 @@
+<HBProfile>
+  <Name>empty profile to initialize randomBuddy</Name>
+  <MinLevel>0</MinLevel>
+  <MaxLevel>91</MaxLevel>
+  	<Hotspots>
+		<Hotspot X="0" Y="0" Z="0" />
+	</Hotspots>
+</HBProfile>
